@@ -7,7 +7,6 @@ const Main = () => {
         <div className="overlay"></div>
         <video src={videoBg} autoPlay loop muted />
         <div className="content">
-            <h1>17 MINUTES</h1>
         </div>
     </div>
   )
