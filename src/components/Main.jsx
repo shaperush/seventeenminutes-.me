@@ -1,6 +1,8 @@
 import React from 'react'
 import videoBg from '../assets/myvideo.mov'
 
+
+
 const Main = () => {
   return (
     <div className='main'>
@@ -9,8 +11,19 @@ const Main = () => {
         <div className="content">
           <h2 className="title_element">17 MINUTES</h2>
         </div>
+
+        <footer className="footer">
+          <div className="social-icons">
+              <a href="https://www.instagram.com">
+                  <img src="/instagram-icon.png" alt="Instagram" className="icon" />
+              </a>
+              <a href="https://www.tiktok.com">
+                  <img src="/tiktok-icon.png" alt="TikTok" className="icon" />
+              </a>
+          </div>
+      </footer>
     </div>
   )
 }
 
-export default Main
+export default Main;
