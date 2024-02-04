@@ -44,12 +44,6 @@ video {
   background-color: rgba(0, 0, 0, 0.5); /* Transparent black background */
   padding: 20px;
   text-align: center;
-  position: absolute;
-    bottom: 0;
-    left: 0; /* You can adjust left or right if needed */
-    width: 100%; /* Ensure it stretches across the entire width */
-    background-color: #f0f0f0; /* Example background color */
-    padding: 10px; /* Adjust padding as needed */
 }
 
 .social-icons {
