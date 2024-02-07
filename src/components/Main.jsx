@@ -13,10 +13,10 @@ const Main = () => {
             <footer className="footer">
             <div className="social-icons">
                 <a href="https://www.instagram.com">
-                    <img src="/instagram-icon.png" className="icon" />
+                    <img src="../assets/instagram-icon.png" className="icon" />
                 </a>
                 <a href="https://www.tiktok.com">
-                    <img src="/tiktok-icon.png" className="icon" />
+                    <img src="../assets/tiktok-icon.png" className="icon" />
                 </a>
             </div>
         </footer>
