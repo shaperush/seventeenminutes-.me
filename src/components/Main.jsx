@@ -9,14 +9,14 @@ const Main = () => {
         <div className="overlay"></div>
         <video src={videoBg} autoPlay loop muted />
         <div className="content">
-          <h2 className="title_element">17 MINUTE</h2>
+          <h2 className="title_element">17 MINUTES</h2>
             <footer className="footer">
             <div className="social-icons">
                 <a href="https://www.instagram.com">
-                    <img src="../assets/instagram-icon.png" className="icon" />
+                    <img src="/instagram-icon.png" className="icon" />
                 </a>
                 <a href="https://www.tiktok.com">
-                    <img src="../assets/tiktok-icon.png" className="icon" />
+                    <img src="/tiktok-icon.png" className="icon" />
                 </a>
             </div>
         </footer>
