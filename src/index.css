@@ -21,8 +21,8 @@ video {
   height: 100%;
   top: 0;
   display: flex;
-  /* justify-content: center;
-  align-items: center; */
+  justify-content: center;
+  align-items: center;
 }
 
 .title_element {
