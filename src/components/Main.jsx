@@ -14,10 +14,10 @@ const Main = () => {
           <h2 className="title_element">17 MINUTES</h2>
             <footer className="footer">
             <div className="social-icons">
-                <a href="https://www.instagram.com">
+                <a href="https://www.instagram.com/seventeenminutes.me">
                     <img src={instagramIcon} className="icon" />
                 </a>
-                <a href="https://www.tiktok.com">
+                <a href="https://www.tiktok.com/@seventeenminutes.me">
                     <img src={tiktokIcon}  className="icon" />
                 </a>
             </div>
