@@ -1,5 +1,7 @@
 import React from 'react'
 import videoBg from '../assets/myvideo.mov'
+import tiktokIcon from '../assets/tiktok.png'
+import instagramIcon from '../assets/instagram.png'
 
 
 
@@ -13,10 +15,10 @@ const Main = () => {
             <footer className="footer">
             <div className="social-icons">
                 <a href="https://www.instagram.com">
-                    <img src="../assets/instagram.png" className="icon" />
+                    <img src={instagramIcon} className="icon" />
                 </a>
                 <a href="https://www.tiktok.com">
-                    <img src="../assets/tiktok.png"  className="icon" />
+                    <img src={tiktokIcon}  className="icon" />
                 </a>
             </div>
         </footer>
