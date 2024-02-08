@@ -27,8 +27,8 @@ video {
 
 .title_element {
   position: absolute;
-  font-size: 23px;
-  letter-spacing: .2rem;
+  font-size: 20px;
+  letter-spacing: .4rem;
   /* flex-direction: column;
   justify-content: center;
   align-items: center; */
