@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Bradly Hand';
+  font-family: "Open Sans", sans-serif;
 }
 
 .main {
@@ -24,12 +24,11 @@ video {
 }
 .title_element {
   position: absolute;
-  /* flex-direction: column;
-  justify-content: center;
-  align-items: center; */
+  font-size: 20px;
+  letter-spacing: .4rem;
   justify-content: center;
   text-align: center;
-  padding-top: 3em;
+  padding-top: 1em;
   width: 100%;
   color: white;
 }
