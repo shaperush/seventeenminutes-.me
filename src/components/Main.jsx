@@ -1,5 +1,5 @@
 import React from 'react'
-import videoBg from '../assets/myvideo.mov'
+import videoBg from '../assets/17m.mov'
 import tiktokIcon from '../assets/tiktok.png'
 import instagramIcon from '../assets/instagram.png'
 
